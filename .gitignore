@@ -1,0 +1,13 @@
+.venv/
+.venv311/
+_local_run/
+__pycache__/
+.idea/
+.vscode/
+.pytest_cache/
+.mypy_cache/
+*.pyc
+*.pyo
+*.pyd
+Thumbs.db
+.DS_Store
